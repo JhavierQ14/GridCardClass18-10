@@ -13,6 +13,7 @@
         android:horizontalSpacing="4dp"
         android:verticalSpacing="4dp"
         android:numColumns="2"
+        android:id="@+id/gv_Tabla"
     />
 
 
